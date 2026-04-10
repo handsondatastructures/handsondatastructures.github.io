@@ -15,9 +15,6 @@ Add links to your workshop assets here.
 
 - [smithcsc210.github.io](https://smithcsc210.github.io) — Full CSC 210 materials, examples, and course resources
 
-{: .note }
-If you are new to teaching data structures, please feel free to reach out.
-
 ## Handouts
 
 - Activity cards (add link)
@@ -28,6 +25,3 @@ If you are new to teaching data structures, please feel free to reach out.
 
 - Sample code repository (add link)
 - Starter notebooks (add link)
-
-{: .warning }
-Replace the placeholder text with actual URLs or local file links.

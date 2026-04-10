@@ -20,6 +20,3 @@ Below is a suggested 90-minute agenda. Adjust timing based on your session lengt
 - **60 minutes:** Focus on linear structures and linked lists only.
 - **2 hours:** Add deeper tree/graph traversal and assessment design.
 - **Half-day:** Add lesson planning and participant micro-teaching.
-
-{: .warning }
-Replace these time blocks with your conference session requirements and constraints.

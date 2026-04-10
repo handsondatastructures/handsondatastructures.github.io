@@ -13,12 +13,6 @@ Each activity is designed to be quick to set up and easy to run in small groups.
   1. [Introduction to Collections](#day-1-what-is-a-collection-with-playing-cards)
   2. [Iteration](#day-2-iteration-sharing-and-copy-depth-magnets)
   3. [Array-Backed Lists](#day-3-name-placards-as-array-backed-lists)
-- [Arrays and Lists](#arrays-dynamic-arrays-and-linked-lists)
-  1. [Arrays](#arrays)
-  2. [Linked Lists](#linked-lists)
-- [Stacks and Queues](#stacks-and-queues)
-- [Trees and Heaps](#trees-and-heaps)
-- [Graphs and Hashing](#graphs-and-hashing)
 
 # Collections and Abstract Data Types
 
@@ -395,31 +389,3 @@ Preview upcoming material:
 ### Key takeaway
 
 Arrays are a simple and fast way to represent lists — until the list needs to change.
-
-# Arrays, dynamic arrays, and linked lists
-
-## Arrays
-- **Human array:** Participants stand in numbered positions and exchange cards to model indexing and updates.
-- **Resize moment:** Add new participants to show reallocation and copying costs.
-
-## Linked Lists
-- **Yarn links:** Participants hold a card and connect with yarn to show next pointers.
-- **Insertion challenge:** Add a new node and rewire links to highlight constant-time insertion.
-
-# Stacks and queues
-
-- **Stack of plates:** Use cups or cards to model push/pop and LIFO behavior.
-- **Queue line:** Participants enqueue/dequeue to model FIFO and head/tail pointers.
-
-# Trees and heaps
-
-- **Human tree:** Participants arrange themselves into a binary tree and perform traversals.
-- **Heap swaps:** Use numbered cards to model heapify and priority ordering.
-
-# Graphs and hashing
-
-- **Graph walk:** Tape nodes on the floor and navigate edges to model BFS/DFS.
-- **Hash buckets:** Place cards into bins and simulate collisions with chains.
-
-{: .note }
-Swap in your exact activity names and facilitator notes.

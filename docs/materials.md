@@ -27,6 +27,3 @@ Most materials are low-cost and reusable. Plan for 20–30 participants unless n
 - Activity cards
 - Structure cards (stack/queue/list/tree/graph)
 - Reflection prompts
-
-{: .note }
-Add links to your printable PDFs in the Resources page.

@@ -21,6 +21,3 @@ nav_order: 2
 - Trees and heaps
 - Graphs and traversal
 - Hashing and collision strategies
-
-{: .note }
-If your session targets a narrower set of structures, trim this list and highlight your focus areas.
