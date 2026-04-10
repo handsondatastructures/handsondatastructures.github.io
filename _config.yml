@@ -17,7 +17,8 @@ title: Hands On Data Structures
 description: Making Abstraction Tangible with Manipulatives
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-theme: just-the-docs # required for local hosting (to make edits to the site locally before pushing)
+# This repo vendors the theme layouts/includes/assets directly, so Pages does
+# not need to resolve `just-the-docs` as an installed gem at build time.
 # repository: your-org/your-repo # for github-metadata
 
 permalink: pretty
